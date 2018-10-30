@@ -219,6 +219,7 @@
     <Content Include="Views\Shared\_Layout.cshtml" />
     <Content Include="webpack.config.js" />
     <Content Include="Vue\Components\component1.vue" />
+    <Content Include="Vue\Components\component2.vue" />
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
